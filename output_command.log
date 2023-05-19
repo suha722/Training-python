@@ -1,0 +1,62 @@
+'07-May-23 21:06:11'|The Process id: '1172-'| CRITICAL|The result of command is 
+' Volume in drive C has no label.
+ Volume Serial Number is 8AAF-74B9
+
+ Directory of C:\Users\ADMIN\PycharmProjects\pythonProject\Week5
+
+05/07/2023  09:06 PM    <DIR>          .
+05/07/2023  09:06 PM    <DIR>          ..
+05/01/2023  10:05 PM             4,518 5.1.1. Exercises.py
+05/05/2023  10:56 PM             3,700 5.2.1exersices.py
+05/06/2023  05:29 PM             2,184 5.3.1exercise.py
+05/03/2023  08:50 PM                 0 accept.txt
+05/03/2023  09:27 PM             3,432 Bank.json
+05/07/2023  08:03 PM             2,072 exercise3.4.1threads.py
+05/07/2023  08:25 PM                41 input.txt
+05/03/2023  08:50 PM                 0 medium.txt
+05/07/2023  09:06 PM                 0 output_command.log
+05/03/2023  08:49 PM                 0 strong.txt
+05/03/2023  09:27 PM             4,646 Task5.1.1.py
+05/07/2023  09:06 PM             1,449 Task5.3.1.py
+05/06/2023  05:06 PM                 0 test.py
+05/06/2023  02:13 PM                21 test.txt
+05/03/2023  08:50 PM                 0 weak.txt
+              15 File(s)         22,063 bytes
+               2 Dir(s)  27,137,404,928 bytes free
+'
+'07-May-23 21:06:11'|The Process id: '1172-'| CRITICAL|The result of command is 
+'Hello, world!
+'
+'07-May-23 21:06:12'|The Process id: '1172-'| CRITICAL|The result of command is 
+''
+'07-May-23 21:11:47'|The Process id: '10316-'| CRITICAL|The result of command is 
+' Volume in drive C has no label.
+ Volume Serial Number is 8AAF-74B9
+
+ Directory of C:\Users\ADMIN\PycharmProjects\pythonProject\Week5
+
+05/07/2023  09:11 PM    <DIR>          .
+05/07/2023  09:11 PM    <DIR>          ..
+05/01/2023  10:05 PM             4,518 5.1.1. Exercises.py
+05/05/2023  10:56 PM             3,700 5.2.1exersices.py
+05/06/2023  05:29 PM             2,184 5.3.1exercise.py
+05/03/2023  08:50 PM                 0 accept.txt
+05/03/2023  09:27 PM             3,432 Bank.json
+05/07/2023  09:11 PM             2,066 exercise3.4.1threads.py
+05/07/2023  08:25 PM                41 input.txt
+05/03/2023  08:50 PM                 0 medium.txt
+05/07/2023  09:06 PM             1,400 output_command.log
+05/03/2023  08:49 PM                 0 strong.txt
+05/03/2023  09:27 PM             4,646 Task5.1.1.py
+05/07/2023  09:06 PM             1,449 Task5.3.1.py
+05/06/2023  05:06 PM                 0 test.py
+05/06/2023  02:13 PM                21 test.txt
+05/03/2023  08:50 PM                 0 weak.txt
+              15 File(s)         23,457 bytes
+               2 Dir(s)  27,136,151,552 bytes free
+'
+'07-May-23 21:11:47'|The Process id: '10316-'| CRITICAL|The result of command is 
+'Hello, world!
+'
+'07-May-23 21:11:47'|The Process id: '10316-'| CRITICAL|The result of command is 
+''

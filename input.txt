@@ -1,0 +1,4 @@
+
+dir
+echo Hello, world!
+python test.py
