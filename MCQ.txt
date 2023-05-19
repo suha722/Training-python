@@ -1,0 +1,16 @@
+
+Q. What is the capital of France?
+A. London
+B. Paris
+C. Berlin
+D. Madrid
+Q. What is the largest planet in our solar system?
+A. Earth
+B. Venus
+C. Jupiter
+D. Mars
+Q. What is the currency of Japan?
+A. Yen
+B. Dollar
+C. Euro
+D. Pound

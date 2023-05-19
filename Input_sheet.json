@@ -1,0 +1,86 @@
+[
+    {
+        "Account Type": "Checking",
+        "Name": "Khaled",
+        "Account Number": 1,
+        "Current Balanc": -9
+    },
+    {
+        "Account Type": "Checking",
+        "Name": "Maha",
+        "Account Number": 3,
+        "Current Balanc": 3000
+    },
+    {
+        "Account Type": "Business",
+        "Name": "Wadah",
+        "Account Number": 3,
+        "Current Balanc": 9000
+    },
+    {
+        "Account Type": "Business",
+        "Name": "Wadah",
+        "Account Number": 3,
+        "Current Balanc": 9000
+    },
+    {
+        "Account Type": "Saving",
+        "Name": "Doha",
+        "Account Number": 4,
+        "Current Balanc": 4020
+    },
+    {
+        "Account Type": "Checking",
+        "Name": "Suha",
+        "Account Number": 5,
+        "Current Balanc": 7000
+    },
+    {
+        "Account Type": "Saving",
+        "Name": "Hade",
+        "Account Number": 3,
+        "Current Balanc": 1200
+    },
+    {
+        "Account Type": "Business",
+        "Name": "Hade",
+        "Account Number": 3,
+        "Current Balanc": 1200
+    },
+    {
+        "Account Type": "Saving",
+        "Name": "Hade",
+        "Account Number": 3,
+        "Current Balanc": 3000
+    },
+    {
+        "Account Type": "Business",
+        "Name": "Hade",
+        "Account Number": 3,
+        "Current Balanc": 1200
+    },
+    {
+        "Account Type": "Business",
+        "Name": "Hade",
+        "Account Number": 3,
+        "Current Balanc": 1200
+    },
+    {
+        "Account Type": "Checking",
+        "Name": "Sohad",
+        "Account Number": 6,
+        "Current Balanc": 878
+    },
+    {
+        "Account Type": "Saving",
+        "Name": "Sarb",
+        "Account Number": 7,
+        "Current Balanc": 3000
+    },
+    {
+        "Account Type": "Saving",
+        "Name": "Hade",
+        "Account Number": 3,
+        "Current Balanc": 1200
+    }
+]

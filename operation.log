@@ -1,0 +1,24 @@
+withdraw  account number is 3 
+The balance before withdraw is: 3000
+And after withdraw is : 2980
+compound_interest  account number is 4 
+The balance before compound_interest is: 4020
+And after compound_interest is : 4824.0
+withdraw  account number is 5 
+The balance before withdraw is: 7000
+And after withdraw is : 6980
+compound_interest  account number is 3 
+The balance before compound_interest is: 1200
+And after compound_interest is : 1440.0
+compound_interest  account number is 3 
+The balance before compound_interest is: 3000
+And after compound_interest is : 3600.0
+withdraw  account number is 6 
+The balance before withdraw is: 878
+And after withdraw is : 858
+compound_interest  account number is 7 
+The balance before compound_interest is: 3000
+And after compound_interest is : 3600.0
+compound_interest  account number is 3 
+The balance before compound_interest is: 1200
+And after compound_interest is : 1440.0
