@@ -1,0 +1,4 @@
+purchase_id,customer_id,purchase_date
+1001,1,2022-01-01
+1002,2,2022-01-02
+1003,1,2022-01-03

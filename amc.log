@@ -1,0 +1,6 @@
+2023-05-10 12:05:01 INFO: User login successful
+2023-05-10 12:05:15 WARNING: Invalid password attempt
+2023-05-10 12:05:37 ERROR: Database connection failed
+2023-05-10 12:08:02 INFO: New request received
+2023-05-10 12:08:27 WARNING: Request took too too too long
+2023-05-10 12:09:12 ERROR: Internal server error

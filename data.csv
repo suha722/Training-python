@@ -1,4 +1,9 @@
-Charlie,35,80000000.50,902
-John Doe,35,75000.00
-Jane Smith,42,10000000.00
-Tom Brown,25,50000.50,Extra Column
+make,model,year,color,horsepower,weight,mpg
+Ford,Mustang,2015,Red,310, ,22
+Chevrolet,Camaro,2015,Yellow,,3900,20
+Dodge,Challenger,2016,Black,375,4100,
+Ford,Shelby GT350,2016,Blue,,3700,21
+Chevrolet,Camaro,2015,Yellow,426,3850,19
+Dodge,Challenger,2016,Black,375,4100
+Dodge,Challenger,2016,Black,375,4100
+,,,,,
